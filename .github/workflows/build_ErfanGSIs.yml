@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/V12.1.4.0.RGHCNXM/miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE:  Aonly
+  BUILD_TYPE:  AB
   TZ: Asia/Shanghai
 
 jobs:
